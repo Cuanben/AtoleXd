@@ -1,0 +1,6 @@
+#imagen{
+	transition: all 0.8s;
+}
+#imagen:hover{
+	transform: scale(0.8);
+}
